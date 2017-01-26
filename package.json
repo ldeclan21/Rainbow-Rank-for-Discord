@@ -1,0 +1,22 @@
+{
+  "name": "orionthebot",
+  "version": "0.0.1",
+  "description": "Chatbot supreme",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "~11.0.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Declan Li-Carney",
+  "license": "MIT",
+  "engines": {
+    "node": "6.9.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:orionthebot.git"
+  }
+}
