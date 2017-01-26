@@ -1,6 +1,6 @@
 {
-  "name": "orionthebot",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/EpicDJL/orionthebot",
+  "name": "RGBbot",
+  "description": "For the PCMR who need rgb roles",
+  "repository": "https://github.com/ldeclan21/Rainbow-Rank-for-Discord",
   "keywords": ["node", "express", "static"],
 }
